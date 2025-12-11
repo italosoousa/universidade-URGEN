@@ -2,7 +2,7 @@
 
 body {
   margin: 0;
-  background-color: #eef2f7; /* Fundo profissional e leve */
+  background-color: rgb(206, 206, 206); /* fundo branco */
   color: #333;
   font-family: system-ui, sans-serif;
 }
